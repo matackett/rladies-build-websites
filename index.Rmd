@@ -33,6 +33,6 @@ Welcome! This website is a demo for the *Building Websites in RStudio* talk pres
 - [blogdown: Creating Websites with R Markdown](https://bookdown.org/yihui/blogdown/) by Yihui Xie, Amber Thomas, Alison Hill
 - Blog posts by Alison Hill 
   - [Up & running with blogdown in 2021](https://alison.rbind.io/post/new-year-new-blogdown/)
-  - [Unbreak your blogdown site](https://alison.rbind.io/post/2020-12-27-blogdown-checks/) 
-- [Posts on Hugo](https://alison.rbind.io/categories/hugo/)
+  - [Unbreak your blogdown site](https://alison.rbind.io/post/2020-12-27-blogdown-checks/)
+  - [Posts on Hugo](https://alison.rbind.io/categories/hugo/)
 
