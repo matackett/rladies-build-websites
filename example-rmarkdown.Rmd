@@ -1,0 +1,60 @@
+---
+title: "Example Article"
+description: |
+  A new article created using the Distill format.
+author:
+  - name: Maria Tackett
+    url: https://mariatackett.net
+    affiliation: Duke University
+    affiliation_url: https://stat.duke.edu
+date: "`r Sys.Date()`"
+output: distill::distill_article
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(warning = FALSE, 
+                      message  = FALSE)
+```
+
+
+## Introduction
+
+This is an example to show how you can easily write posts for your website using R Markdown! 
+
+### Load packages
+
+```{r}
+library(tidyverse)
+library(knitr)
+library(broom)
+```
+
+### Analysis
+
+We will use the `diamonds` data set in the **ggplot2** package. Let's take a look at the data!
+
+```{r}
+diamonds %>%
+  slice(1:10)
+```
+
+
+Now let's visualize the data.
+
+```{r}
+ggplot(data = diamonds, aes(x = carat, y = price, color = cut)) +
+  geom_point() 
+```
+
+Finally, we can fit a regression model predicting the price based on the carat. 
+
+```{r}
+lm(price ~ carat, data = diamonds) %>%
+  tidy() %>%
+  kable(digits = 3)
+```
+
+
+
+
+

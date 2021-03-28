@@ -1,0 +1,17 @@
+name: "."
+title: "Building Websites in RStudio"
+description: |
+  Building Websites in RStudio
+output_dir: "docs"
+theme: my-theme.css
+navbar:
+  right:
+    - text: "Home"
+      href: home.html
+    - text: "More websites"
+      href: example-websites.html
+    - text: "Example article"
+      href: example-rmarkdown.html
+output: distill::distill_article
+
+
