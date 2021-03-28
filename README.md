@@ -1,6 +1,8 @@
-# rladies-amherst-websites
+# rladies-build-websites
 
 Repo for "Building Websites in RStudio" talk
+
+Link: https://matackett.github.io/rladies-build-websites/
 
 ## Website details 
 
@@ -9,5 +11,5 @@ Repo for "Building Websites in RStudio" talk
 ## Colors 
 
 - main color: #62A87C
-- accent color: #9C6B9C
+
 - font color: #686868
