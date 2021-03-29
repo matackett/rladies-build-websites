@@ -4,10 +4,10 @@ image: "img/website-logo.png"
 links:
   - label: Slides
     url: "rladies-build-websites.pdf"
+  - label: GitHub
+    url: "https://github.com/matackett/rladies-build-websites"
   - label: Twitter
     url: "https://twitter.com/MT_Statistics"
-  - label: GitHub
-    url: "https://github.com/matackett"
   - label: Email
     url: "mailto:maria.tackett@duke.edu"
 output:

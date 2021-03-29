@@ -1,8 +1,10 @@
-# rladies-build-websites
+# Repo for "Building Websites in RStudio" talk
 
-Repo for "Building Websites in RStudio" talk
 
-Link: https://matackett.github.io/rladies-build-websites/
+
+- Website :link: https://matackett.github.io/rladies-build-websites/
+- Slides :link: [rladies-build-websites.pdf](rladies-build-websites.pdf)
+
 
 ## Website details 
 
