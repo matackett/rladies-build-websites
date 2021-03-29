@@ -3,7 +3,7 @@ title: "Building Websites in RStudio"
 image: "img/website-logo.png"
 links:
   - label: Slides
-    url: "rladies-build-websites.pdf/"
+    url: "rladies-build-websites.pdf"
   - label: Twitter
     url: "https://twitter.com/MT_Statistics"
   - label: GitHub
@@ -36,3 +36,5 @@ Welcome! This website is a demo for the *Building Websites in RStudio* talk pres
   - [Unbreak your blogdown site](https://alison.rbind.io/post/2020-12-27-blogdown-checks/)
   - [Posts on Hugo](https://alison.rbind.io/categories/hugo/)
 
+## RStudio + GitHub
+- [Happy git and GitHub for the R useR](https://happygitwithr.com/) by Jenny Bryan, the STAT 545 TAs, Jim Hester

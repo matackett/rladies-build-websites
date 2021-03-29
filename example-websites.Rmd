@@ -7,12 +7,11 @@ output: distill::distill_article
 
 ## Websites made using Distill 
 
-- Website 1
-- Website 2
+- [Example websites made using Distill](https://pkgs.rstudio.com/distill/articles/examples.html)
 
 ## Websites made using Blogdown
 
-- Website 1
-- Website 2
+- [Awesome Blogdown](https://awesome-blogdown.com/): List of sites made using blogdown and hugodown
+
 
 
