@@ -1,11 +1,9 @@
 ---
 title: "More websites made using Distill & Blogdown"
 description: |
-  A list of websites made using Distill and Blogdown
+  Submit a pull request if you have websites to add to the list! 
 output: distill::distill_article
 ---
-
-*If you have a website you'd like to add to this list, please submit a pull request!*
 
 ## Websites made using Distill 
 
